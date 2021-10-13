@@ -51,6 +51,7 @@ const [r, o, y, g, b, v] = colors;
 // 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg.
 colors.splice(5, 0, 'indigo')
 const indg = colors[5];
+
 // Objects
 
 // 7. Use destructuring to assign all variables using the keys as the variable names
